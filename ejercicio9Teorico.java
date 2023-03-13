@@ -46,6 +46,8 @@ class ejercicio9Teorico{
 
         System.out.println("La suma de los numeros ingresados es igual a: " + "'" + suma + "'");
 
+        entrada.close(); // Cerramos el objeto de 'entrada' para que no nos tire error
+
     }
     
 }

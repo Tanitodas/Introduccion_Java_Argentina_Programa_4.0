@@ -27,6 +27,9 @@ public class ejercicio6Teorico {
 
              }
 
+        
+        entrada.close(); // Cerramos el objeto de 'entrada' para que no nos tire error
+             
     }
 
     
