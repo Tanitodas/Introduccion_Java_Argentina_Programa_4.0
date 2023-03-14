@@ -4,7 +4,7 @@ import java.util.Scanner;
 // pondrá un mensaje de Correcto, sino mostrará un mensaje de Incorrecto. Nota:
 // investigar la función equals() en Java.
 
-public class ejercicio7Practico {
+public class ejercicio07Practico {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);

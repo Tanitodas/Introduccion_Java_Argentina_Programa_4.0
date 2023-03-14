@@ -5,7 +5,7 @@
 
  import java.util.Scanner;  //Importacion de la CLASE "Scanner"
 
-public class ejercicio5Teorico {
+public class ejercicio05Teorico {
     public static void main(String[] args) {
 
         /*  

@@ -16,7 +16,7 @@
 
  import java.util.Scanner;
 
-public class ejercicio7Teorico {
+public class ejercicio07Teorico {
 
     public static void main(String[] args) {
         

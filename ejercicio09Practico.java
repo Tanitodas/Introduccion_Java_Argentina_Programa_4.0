@@ -5,7 +5,7 @@ import java.util.Scanner;
 // que diga “CORRECTO”, en caso contrario, se deberá imprimir “INCORRECTO”. Nota:
 // investigar la función Substring y equals() de Java.
 
-public class ejercicio9Practico {
+public class ejercicio09Practico {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);
@@ -27,6 +27,7 @@ public class ejercicio9Practico {
             
         }
 
+        entrada.close();
 
     }
 }

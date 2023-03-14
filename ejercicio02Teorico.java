@@ -1,6 +1,6 @@
 //¿Recuerdas las variables que creaste en el ejercicio anterior? Ahora deberás asignarles un valor
 
-public class ejercicio2Teorico {
+public class ejercicio02Teorico {
     public static void main(String[] args) {
         
         String cadenaTexto = "Hola Mundo"; //Cadena de texto

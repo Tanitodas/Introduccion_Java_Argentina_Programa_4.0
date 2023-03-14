@@ -4,7 +4,7 @@ import java.util.Scanner;
 // doble, el triple y la raíz cuadrada de ese número. Nota: investigar la función
 // Math.sqrt().
 
-public class ejercicio5Practico {
+public class ejercicio05Practico {
 
     public static void main(String[] args) {
         

@@ -3,7 +3,7 @@ Define una variable que aloje tu nombre y otra que guarde tu edad. Imprime ambas
 por pantalla.
 */
 
-public class ejercicio4Teorico {
+public class ejercicio04Teorico {
 
 public static void main(String[] args) {
     

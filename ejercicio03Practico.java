@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class ejercicio3Practico {
+public class ejercicio03Practico {
     
     public static void main(String[] args) {
         

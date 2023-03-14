@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class ejercicio8Practivo {
+public class ejercicio08Practivo {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class ejercicio4Practico {
+public class ejercicio04Practico {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);

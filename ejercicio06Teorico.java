@@ -5,7 +5,7 @@
 
 import java.util.Scanner; //Importacion de la CLASE "Scanner"
 
-public class ejercicio6Teorico {
+public class ejercicio06Teorico {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in); //     Creaccion de un OBJETO (que nos va a permitir leer un dato ingresado por teclado) de la CLASE 'Scanner'.

@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // Utilizando un Bucle for, aloja en el vector Equipo, los nombres de tus compañeros de equipo
+
+import java.util.Scanner;
 
 public class ejercicio14Teorico {
     

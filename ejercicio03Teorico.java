@@ -1,6 +1,6 @@
 //Define variables donde puedas alojar los resultados y prueba usar dos operadores de cada tipo.
 
-public class ejercicio3Teorico {
+public class ejercicio03Teorico {
     public static void main(String[] args) {
         
         Double num1 = 3.5;
