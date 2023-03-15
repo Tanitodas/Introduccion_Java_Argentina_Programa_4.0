@@ -39,6 +39,8 @@ public class ejercicio14Practico {
 
         conversionDivisas(euros, nombreDivisas);
 
+        entrada.close(); // Cerramos el objeto de 'entrada' para que no nos tire error
+
     }
 
     public static void conversionDivisas( int euros , String nombreDivisas){
