@@ -30,7 +30,7 @@ public class ejercicio17Practico {
 
             for ( i = 0; i < n ; i++ ) {
 
-                switch ( contarDig(vectorEnteros[i]) ) {
+                switch ( contarDig( vectorEnteros[i] ) ) {
                     case 1:{
                         c1++;
                         break;
@@ -170,7 +170,7 @@ public class ejercicio17Practico {
 
     /*  Funcion para calcular la cantidad de digitos que tiene un numero.
      *  
-     * La función contarDig recibe un número, y lo que hace es ir quitandole un dígito en cada vuelta del while, mientras
+     *  La función contarDig recibe un número, y lo que hace es ir quitandole un dígito en cada vuelta del while, mientras
      *  aumenta el contador de dígitos. 
      *  Al final, cuando el número no se puede dividir más por 10 (o no se pueden quitar más dígitos, básicamente), 
      *  retorna el contador.
